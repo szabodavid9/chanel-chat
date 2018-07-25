@@ -1,0 +1,136 @@
+.wrapper, .menu-tabs{
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.main-title-con{
+    text-align: center;
+    
+}
+
+/* .nested-children{
+    padding-left: 35px;
+} */
+
+.welcome-con{
+    display: flex;
+    padding-bottom: 35px;
+}
+
+.welcome-con div {
+    width: 50%;
+} 
+
+.welcome-con__btn {
+    text-align: right;
+}
+
+.welcome-con__text, h2{
+    margin-top: 0;
+}
+
+.createtopic-con h2{
+    margin-bottom: 0;
+}
+
+
+.createtopic-btn{
+    width: 100%;
+    text-align: left;
+    padding: 15px 15px 15px 15px;
+}
+
+.plus-icon{
+    right: -800px;
+}
+
+.topic-description{
+    width: 100%;
+}
+
+.new-topic-form button{
+    margin-right: 15px;
+}
+
+.topic-item{
+    position: relative;
+}
+
+.topic-item-top, .comment-unit, .todo-content {
+    display: flex;
+}
+
+.topic-item__props{
+    width: 50%;
+}
+
+.topic-item__remove{
+    text-align: right ;
+    width: 50%;
+}
+
+.topic-item__props h4{
+    padding: 15px 0;
+}
+
+.comment-text, .todo-description{
+    font-size: 16px;
+}
+
+.comment-text-con, .todo-description-con{
+    width: 70%;
+}
+
+.comment-author-con, .comment-author-con{
+    text-align: right;
+    width: 30%;
+}
+
+.comment-con ,  {
+    background-color:  #7c818109;
+}
+
+.comment-con,.todo-con a{
+    padding-right: 5px;
+}
+
+
+.todo-con{
+    background-color:  rgba(109, 0, 0, 0.13);
+}
+
+.new-comment{
+    padding: 7px 0;
+}
+
+.children-con{
+    border: inherit;
+}
+
+.com-menu-down{
+    padding-left: 5px;
+}
+
+.topic-success{
+    color: green;
+}
+
+/* .modal{
+    display: inherit;
+} */
+
+.vas {
+    display: inherit;
+}
+
+.comment-img{
+    max-width: 500px;
+    /* height: 100px; */
+    border: none;
+}
+
+.img-upload{
+    background: #f5f5f5;
+    padding: 10px;
+    margin-top: 10px;
+}
