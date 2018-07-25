@@ -1,6 +1,10 @@
-# ReactJS Twich
+# Chanel-chat
 
-This project was created with demonstration purpose.
+A simple chat/forum application. Powered by ReactJS and Firebase Database.
+
+## Database configuration
+
+You can use you own Firebase database configuration. The configuration available in firebase.js file.  
 
 ## Install dependencies: 
 
